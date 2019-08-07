@@ -51,3 +51,4 @@ for i in search1["businesses"]:
     print(i["location"]["city"])
     print(i.get('location').get('area'))
     print('\n')
+    
