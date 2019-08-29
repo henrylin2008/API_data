@@ -5,7 +5,8 @@ consumer_key = ''
 consumer_secret = ''
 token = ''
 token_secret = ''
-# testing on 8/29/19 
+# testing on 8/29/19
+# testing at 2:12:00pm
 
 auth = OAuth1(consumer_key, consumer_secret,
               token, token_secret)
